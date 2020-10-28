@@ -1,0 +1,2 @@
+# segitiga-angka
+tugas7
